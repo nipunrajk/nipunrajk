@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nipunrajk
 - 👀 I’m interested in Web development, App-development 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Javascript and Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.instagram.com/nipunraj/ || https://twitter.com/nipunraj7
 

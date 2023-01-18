@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/nipunraj7" target="blank"><img src="https://img.shields.io/twitter/follow/nipunraj7?logo=twitter&style=for-the-badge" alt="nipunraj7" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 👨‍💻 All of my projects are available at [https://nipunrajk.github.io/](https://nipunrajk.github.io/)
 
